@@ -1,0 +1,1 @@
+// vetorial.js - placeholder content

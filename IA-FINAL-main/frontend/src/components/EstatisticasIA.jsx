@@ -1,0 +1,1 @@
+// EstatisticasIA.jsx - placeholder content

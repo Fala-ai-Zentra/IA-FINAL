@@ -1,0 +1,1 @@
+// validarToken.js - placeholder content

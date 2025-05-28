@@ -1,0 +1,1 @@
+// iaHotController.js - placeholder content

@@ -1,0 +1,1 @@
+// HistoricoUso.jsx - placeholder content
